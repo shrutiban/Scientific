@@ -1,5 +1,4 @@
 
-import java.math.BigInteger;
 import java.util.*;
 import java.io.*;
 import com.google.common.math.BigIntegerMath;
@@ -43,12 +42,11 @@ public class Calculator {
                         System.out.println("Answer is: "+ c);
                         break;
                     case 2:
-                        System.out.print("Enter a positive number:");
+                        System.out.print("Enter a number for calculating factorial::");
                         int f=sc.nextInt();
-                        BigInteger fac= fact(f);
-                        int test= fac.compareTo(new BigInteger("0"));
-                        if(test<0)
-                            System.out.println("Number can not be negetive");
+                        long fac= fact(f);
+                        if(fac<0)
+                            System.out.println("Factorial of negative number can not be calculated");
                         else
                             System.out.println("Answer is: "+ fac);
                         break;
@@ -85,6 +83,13 @@ public class Calculator {
         }
         c=Math.log(a);
         return c;
+    }
+    public static long fact(int f){
+        if(f<0){
+            return -1;
+        }
+        if(f<2) return 1;
+        return f*fact(f-1);
     }
     public static double pow(double a, double b){
         c=Math.pow(a,b);
