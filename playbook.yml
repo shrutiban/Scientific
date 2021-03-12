@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image of working project from dockerhub
       docker_image:
-        name: shrutiban/Scientific_mini-calculator
+        name: shrutiban/scientific_mini-calculator
         source: pull
