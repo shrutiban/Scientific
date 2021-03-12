@@ -70,13 +70,6 @@ public class Calculator {
         c=Math.sqrt(a);
         return c;
     }
-    public static BigInteger fact(int f){
-        if(f<0){
-            return new BigInteger("-1");
-        }
-        BigInteger ans = BigIntegerMath.factorial(f);
-        return ans;
-    }
     public static double log(double a){
         if(a<=0){
             return -1;
