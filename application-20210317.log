@@ -1,0 +1,34 @@
+2021-03-17 01:25:50.413 [main] INFO  Calculator - Calculating square root  of given number:12123.0
+2021-03-17 01:25:50.422 [main] INFO  Calculator - Resultant answer of power operations is : 110.1044958210154
+2021-03-17 01:25:52.349 [main] INFO  Calculator - Calculating factorial  of given number:3
+2021-03-17 01:25:52.350 [main] INFO  Calculator - Resultant answer of power operations is : 6.0
+2021-03-17 01:25:54.392 [main] INFO  Calculator - Calculating factorial  of given number:3
+2021-03-17 01:25:54.394 [main] INFO  Calculator - Resultant answer of power operations is : 6.0
+2021-03-17 01:25:57.408 [main] INFO  Calculator - Calculating factorial  of given number:6
+2021-03-17 01:25:57.409 [main] INFO  Calculator - Resultant answer of power operations is : 720.0
+2021-03-17 01:26:00.400 [main] INFO  Calculator - Calculating natural log  of given number:34.0
+2021-03-17 01:26:00.401 [main] INFO  Calculator - Resultant answer of natural log operation is : 3.5263605246161616
+2021-03-17 01:26:02.108 [main] INFO  Calculator - Calculating natural log  of given number:234.0
+2021-03-17 01:26:02.109 [main] INFO  Calculator - Resultant answer of natural log operation is : 5.455321115357702
+2021-03-17 01:26:05.161 [main] INFO  Calculator - Calculating natural log  of given number:23442.0
+2021-03-17 01:26:05.162 [main] INFO  Calculator - Resultant answer of natural log operation is : 10.062284564283125
+2021-03-17 01:26:09.201 [main] INFO  Calculator - Calculating power function of given numbers:3.0,4.0
+2021-03-17 01:26:09.202 [main] INFO  Calculator - Resultant answer of power operation is : 81.0
+2021-03-17 01:26:13.037 [main] INFO  Calculator - Calculating power function of given numbers:4.0,3.0
+2021-03-17 01:26:13.038 [main] INFO  Calculator - Resultant answer of power operation is : 64.0
+2021-03-17 01:30:27.947 [main] INFO  Calculator - Calculating factorial  of given number:5
+2021-03-17 01:30:27.955 [main] INFO  Calculator - Resultant answer of power operations is : 120.0
+2021-03-17 01:30:32.641 [main] INFO  Calculator - Calculating natural log  of given number:3432.0
+2021-03-17 01:30:32.641 [main] INFO  Calculator - Resultant answer of natural log operation is : 8.140898460607852
+2021-03-17 01:30:37.418 [main] INFO  Calculator - Calculating power function of given numbers:3.0,5.0
+2021-03-17 01:30:37.419 [main] INFO  Calculator - Resultant answer of power operation is : 243.0
+2021-03-17 01:30:39.938 [main] INFO  Calculator - Calculating square root  of given number:2.3141234E7
+2021-03-17 01:30:39.939 [main] INFO  Calculator - Resultant answer of power operations is : 4810.533650230503
+2021-03-17 01:30:43.493 [main] INFO  Calculator - Calculating square root  of given number:23123.32423
+2021-03-17 01:30:43.494 [main] INFO  Calculator - Resultant answer of power operations is : 152.06355325981303
+2021-03-17 01:30:47.681 [main] INFO  Calculator - Calculating factorial  of given number:8
+2021-03-17 01:30:47.683 [main] INFO  Calculator - Resultant answer of power operations is : 40320.0
+2021-03-17 01:30:53.571 [main] INFO  Calculator - Calculating natural log  of given number:13123.234124
+2021-03-17 01:30:53.573 [main] INFO  Calculator - Resultant answer of natural log operation is : 9.48213953547478
+2021-03-17 01:31:01.180 [main] INFO  Calculator - Calculating power function of given numbers:2.5,4.876
+2021-03-17 01:31:01.180 [main] INFO  Calculator - Resultant answer of power operation is : 87.16767900716705
