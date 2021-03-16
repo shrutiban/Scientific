@@ -1,2 +1,2 @@
 # Devops_Calculator
-Scientific Calculator using Devops tools 
+Mini-Scientific Calculator using Devops tools 
